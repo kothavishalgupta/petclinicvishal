@@ -1,0 +1,1 @@
+This is to test the pool scm trigger for jenkins build 
